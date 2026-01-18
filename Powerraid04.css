@@ -18,15 +18,15 @@
   background-image: var(--ocean-bg);
   background-size: cover;
 }
-
+/* section 1 */
 ._960e4207cea8323e-bg {
   background-color: transparent;
 }
-
+/* section 2 */
 #app-mount ._960e4207cea8323e-layer  {
   background-color: transparent;
 }
-
+/* section 3 */
 body,
 #app-mount,
 #app-mount .a3002d7de5be5280-app,
@@ -50,31 +50,33 @@ body,
 #app-mount .scrollerBase-_bVAAt,
 #app-mount ._23e6b439306f125a-standardSidebarView,
 #app-mount ._23e6b439306f125a-contentRegion {
-	background-color: transparent !important;
+	background-color: #84FF00 !important;
 }
 #app-mount ._9293f6b2fc12398a-children:after {
 	display: none;
 }
+/* Section 4*/
 #app-mount .ef3116c2da186559-wrapper {
 	background-color: transparent;
 }
+/* section 5 */
 #app-mount ._9293f6b2fc12398a-container._9293f6b2fc12398a-themed,
 #app-mount ._23e6b439306f125a-sidebarRegion,
 #app-mount ._5e434347c823b592-sidebar,
 #app-mount ._5e434347c823b592-panels,
 #app-mount .c8ffbb79449f399c-membersWrap,
 #app-mount ._133bf5eea8e33a34-nowPlayingColumn {
-	background-color: transparent;
+	background-color: #00FF84;
 }
-
+/* section 6 */
 .theme-dark .ef3116c2da186559-scroller {
 	background: transparent;
 }
-
+/* section 7 */
 .f75fb00fb7356cbe-chatContent {
   background-color: transparent;
 }
-
+/* section 8 */
 .theme-dark ._99e7cad8d4c55236-scroller {
   background-color: transparent;
 }
@@ -82,14 +84,15 @@ body,
 ._421edea01cb52e16-titleBar {
   background-image: var(--ocean-bg);
 }
-
+/* section 9 */
 ._23e6b439306f125a-sidebarRegionScroller, ._23e6b439306f125a-contentRegionShownSidebar {
   background-color: transparent !important;
 }
-
+/* section 10 */
 .e6b7699ce8339e1c-searchBar {
   background-color: transparent;
 }
+/* section 11 */
 .e6b7699ce8339e1c-searchBar .searchBarComponent__35e86 {
   background-color: transparent;
   border-radius: 20px;
@@ -189,6 +192,7 @@ article.embedWrapper_b7e1cb.embedFlexGrow_b7e1cb._623de82e76ad7f82-embedFull._62
 ._972a0d22c8afa7f0-linkButtonIcon path {
   color: var(--ocean-color1);
 }
+/* section 12 */
 ._7d20cf18f8a2784c-container {
   background: transparent;
 }
@@ -203,9 +207,11 @@ article.embedWrapper_b7e1cb.embedFlexGrow_b7e1cb._623de82e76ad7f82-embedFull._62
 .ac6cb02cd15b4b3b-quickswitcher {
   background-image: var(--ocean-bg);
 }
+/* section 13 */
 .ac6cb02cd15b4b3b-input {
   background-color: transparent;
 }
+/* section 14 */
 .ac6cb02cd15b4b3b-scroller {
   background-color: transparent;
 }
@@ -252,18 +258,21 @@ article.embedWrapper_b7e1cb.embedFlexGrow_b7e1cb._623de82e76ad7f82-embedFull._62
 ._0a06ed6ea040aa1b-username {
   color: var(--ocean-color2);
 }
-
+/* section 15 */
 ._00943886e1cf89d1-wrapper {
   background-color: transparent !important;
   border: none;
 }
+/* section 16 */
 ._00943886e1cf89d1-wrapper:hover,
 ._00943886e1cf89d1-wrapper.bf1984a18b3ec6f0-interactive {
   background-color: transparent !important;
 }
+/*section 17*/
 ._00943886e1cf89d1-wrapper .bf1984a18b3ec6f0-inset {
   background-color: transparent;
 }
+/* section 18 */
 ._00943886e1cf89d1-wrapper ._00943886e1cf89d1-section {
   background-color: transparent;
 }
@@ -271,6 +280,7 @@ article.embedWrapper_b7e1cb.embedFlexGrow_b7e1cb._623de82e76ad7f82-embedFull._62
   background-color: var(--ocean-color1) !important;
   color: var(--ocean-color2);
 }
+/*section 19*/
 .expandedFolderBackground-1cujaW {
   background-color: transparent;
 }
@@ -541,6 +551,7 @@ button[aria-label="Send a gift"] {
 .button__353c4 {
   color: var(--ocean-color2);
 }
+/
 ._7e549558f336cddb-emptyCard {
   background-color: transparent;
 }
@@ -915,9 +926,9 @@ button[aria-label="Send a gift"] {
 .fontSize16Padding__74017, ._20a53846fe2e8513-name {
   color: var(--ocean-color2);
 }
-
+/* section POSSIBLY */
 ._91a9d7f7e5248a56-clickable:hover ._91a9d7f7e5248a56-layout, .c8ffbb79449f399c-member, .c8ffbb79449f399c-members {
-  background-color: transparent;
+  background-color: #FF2800;
 }
 
 .container-3wLKDe {
@@ -1047,7 +1058,7 @@ button._67645e1530f1195d-button ._5eb9b3cc7c2b1ce8-lottieIcon svg path {
 
 
 .f75fb00fb7356cbe-content {
-  background: transparent;
+  background: #FBFF00;
 }
 
 ._0f2e83213c878a13-container._0f2e83213c878a13-openOnHover {
