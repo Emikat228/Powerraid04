@@ -50,7 +50,7 @@ body,
 #app-mount .scrollerBase-_bVAAt,
 #app-mount ._23e6b439306f125a-standardSidebarView,
 #app-mount ._23e6b439306f125a-contentRegion {
-	background-color: rgba(var(--ocean-color2), 0.7) !important;
+	background-color: rgba(47, 77, 116, 0.7) !important;
 }
 /* Chat Background */
 .f75fb00fb7356cbe-content {
@@ -63,7 +63,7 @@ body,
 #app-mount ._5e434347c823b592-panels,
 #app-mount .c8ffbb79449f399c-membersWrap,
 #app-mount ._133bf5eea8e33a34-nowPlayingColumn {
-	background-color: rgba(var(--ocean-color2), 0.7);
+	background-color: rgba(47, 77, 116, 0.7);
 }
 #app-mount ._9293f6b2fc12398a-children:after {
 	display: none;
