@@ -6,6 +6,7 @@
   --ocean-color1: #175D8C;
   --ocean-color2: #BCD2FB;
   --ocean-color3: #BCD2FB;
+  --ocean-color4: rgba(47, 77, 116);	
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
@@ -50,7 +51,7 @@ body,
 #app-mount .scrollerBase-_bVAAt,
 #app-mount ._23e6b439306f125a-standardSidebarView,
 #app-mount ._23e6b439306f125a-contentRegion {
-	background-color: rgba(47, 77, 116, 0.5) !important;
+	background-color: rgba(var(--ocean-color4), 0.5) !important;
 }
 /* Chat Background */
 .f75fb00fb7356cbe-content {
@@ -63,7 +64,7 @@ body,
 #app-mount ._5e434347c823b592-panels,
 #app-mount .c8ffbb79449f399c-membersWrap,
 #app-mount ._133bf5eea8e33a34-nowPlayingColumn {
-	background-color: rgba(47, 77, 116, 0.5);
+	background-color: rgba(var(--ocean-color4), 0.5);
 }
 #app-mount ._9293f6b2fc12398a-children:after {
 	display: none;
